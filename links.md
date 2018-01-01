@@ -1,8 +1,3 @@
-+++
-author = "Alex Addy"
-title = "Useful Links"
-+++
-
 This page is a collection of pages and projects that I personally find
 interesting or useful.
 
