@@ -1,0 +1,4 @@
+# TODO update this to allow access to pages
+
+User-agent: *
+Disallow: /
